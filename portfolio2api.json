@@ -1,0 +1,49 @@
+{  "home":[
+     {
+     "name":"Karem Mkacher",
+     "image":"https://res.cloudinary.com/dyx1jeydm/image/upload/v1661929693/About/karem_y5l32v.png",
+     "description":"As a full-stack web developer with expertise in React.js and Node.js, I possess a passion for crafting robust and interactive web applications. However, I sometimes find myself facing technical challenges that require creative problem-solving, but I'm determined to overcome them and continuously improve my skills to deliver exceptional user experiences.
+"
+     }
+],
+  "about":[
+       {
+        "name": "I'm Karem Mkacher and",
+        "description":"I'm a MERN stack web developer with over 3 years of experience, I have honed my skills in crafting end-to-end web applications using MongoDB, Express.js, React.js, and Node.js. Despite encountering occasional roadblocks, I am dedicated to expanding my expertise and leveraging my experience to build efficient and innovative solutions that cater to users' needs. My passion for learning and commitment to excellence drive me to thrive in the dynamic world of web development.",
+        "birthday":"09/08/93",
+        "degree":"Bac+3",
+        "city":"Sousse",
+        "age":"30",
+        "website":"mkacherkarem.netlify.app",
+        "email":"karemmkach@gmail.com",
+        "phone":"00978922r4",
+        "freelance":"karemmk",
+        "cv":"https://drive.google.com/file/d/1dTNOy-RYOnKa5Tq0kxtlR1gfceq-_UtT/view?usp=drivesdk"
+       }
+  ],
+  "services":[
+    {
+      "mobileicontitle":"Mobile App",
+      "mobileicondesc":"As a mobile application developer, I am proficient in creating stunning and user-friendly interfaces using Material UI, Bootstrap, and Tailwind CSS, ensuring an exceptional user experience",
+      "devicontitle":"Nodejs/Backend",
+      "devicondesc":"As a backend developer, I specialize in building scalable and efficient web applications using Node.js, MongoDB, and Express, delivering robust server-side solutions.",
+      "pcicontitle":"Web App",
+      "pcicondesc":"As a web app developer proficient in JavaScript, I design and implement dynamic and interactive web applications, creating seamless user experiences.",
+      "codeicontitle":"Javasript/Node/MongoDB",
+      "codeicondesc":"As a MERN stack developer, I utilize MongoDB, Express.js, React.js, and Node.js to build web applications, continuously seeking growth despite occasional challenges.",
+      "searchicontitle":"Tests",
+      "searchicondesc":"As a front-end tester, I specialize in using Jest for testing front-end code, while relying on Postman to test and validate backend APIs.",
+      "reacticontitle":"Reactjs/ReactNative",
+      "reacticondesc":"As a developer proficient in React.js and React Native, I create cross-platform web and mobile applications, delivering seamless experiences across devices.",
+    }
+  ],
+   "contact":[
+   {
+     "phone":"+21697892244",
+     "office":"Chebba,Mahdia,tunisia",
+     "email":"Karemmkach@gmail.com",
+     "website":"mkacherkarem.netlify.app"
+     }
+   ]
+ 
+}
