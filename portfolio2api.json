@@ -43,6 +43,62 @@
      "email":"Karemmkach@gmail.com",
      "website":"mkacherkarem.netlify.app"
      }
-   ]
+   ],
+     "skills":[
+          {
+                "images":
+  [
+      {
+      "id":1,
+      "url":"https://res.cloudinary.com/dyx1jeydm/image/upload/v1669318227/Skills/instagramClone_wtwuuh.gif",
+      "adress":"https://github.com/Karemmk/insta-clone",
+      "alternativetext":"IntagramClone Front with TailwindCSS"
+      },
+      {
+      "id":2,
+      "url":"https://res.cloudinary.com/dyx1jeydm/image/upload/v1669313755/Skills/e-commerce_wmrl8o.gif",
+      "adress":"https://github.com/Karemmk/e-commerce",
+      "alternativetext":"E-Commerce-Context Bootstrap"
+      },
+      {
+      "id":3,
+      "url":"https://res.cloudinary.com/dyx1jeydm/image/upload/v1669311401/Skills/resturant-react_dofxje.gif",
+      "adress":"https://github.com/Karemmk/coursera-full-stack-react",
+      "alternativetext":"Mern stack Resturant Redux-Bootstrap"
+      },
+      {
+      "id":4,
+      "url":"https://res.cloudinary.com/dyx1jeydm/image/upload/v1669297271/Skills/MK-MEDIA_d3tceu.gif",
+      "adress":"https://github.com/Karemmk/mk-Media-clone",
+      "alternativetext":"Mern stack Mk social Media MaterialUI-Redux/toolkit"
+      },
+      {
+      "id":5,
+      "url":"https://res.cloudinary.com/dyx1jeydm/image/upload/v1669291869/Skills/NetflixClone_u6agyc.gif",
+      "adress":"https://github.com/Karemmk/NetflixClone",
+      "alternativetext":"NetflixClone front with TailwindCSS"
+      },
+      {
+        "id":6,
+      "url":"https://res.cloudinary.com/dyx1jeydm/image/upload/c_scale,h_725,w_954/v1662544912/Skills/chatApp_rslms0.png",
+      "adress":"https://github.com/Karemmk/chatApp",
+      "alternativetext":"ChatApp TailwindCSS-Firebase-GoogleAuth"
+      },
+      {
+      "id":7,
+      "url":"https://res.cloudinary.com/dyx1jeydm/image/upload/v1669547662/Skills/portfolio_ye9ajd.gif",
+      "adress":"https://github.com/Karemmk/Portfilio-bootstrap-react",
+      "alternativetext":"Portfolio Bootstrap-Redux/toolkit"
+      },
+      {
+      "id":8,
+      "url":"https://res.cloudinary.com/dyx1jeydm/image/upload/v1691360588/Skills/result_fhlkpj.gif",
+      "adress":"https://github.com/Karemmk/portfolio2.0",
+      "alternativetext":"Portfolio2.0 TailwindCSS-Redux/toolkit"
+      }
+   
+    ]
+          }
+     ]
  
 }
