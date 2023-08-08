@@ -18,32 +18,31 @@
         "phone":"0097892244",
         "freelance":"karemmk",
         "cv":"https://drive.google.com/file/d/1dTNOy-RYOnKa5Tq0kxtlR1gfceq-_UtT/view?usp=drivesdk",
-         "images":[
- {
-      url: "https://res.cloudinary.com/dyx1jeydm/image/upload/v1661929693/About/Full-Stack-1_e3j2ks.png",
-      alternativeText: "Photo Three",
-       download:"https://drive.google.com/file/d/1ghtpcOEu61just9ouIh-KjkCYLj0zpLM/view?usp=drivesdk",
-       adress:'https://coursera.org/verify/specialization/LE55T8U53PME'
-    },
-    {
-      url: "https://res.cloudinary.com/dyx1jeydm/image/upload/v1661929692/About/Bootstrap-1_y0adb1.png",
-      alternativeText: "Photo One",
-       download:"https://drive.google.com/file/d/1gbiszFysa119CNUQfeuCJOAjuIAKRbDF/view?usp=drivesdk",
-       adress: 'https://coursera.org/verify/SZBR4SFBGV4Q'
-      
-    },
-    {
-      url: "https://res.cloudinary.com/dyx1jeydm/image/upload/v1661929697/About/Font-End-react-1_cszqvy.png",
-      alternativeText: "Photo Two",
-      download:"https://drive.google.com/file/d/1gcrrkUJfTRpD9AZpLmMAAVSO13AYoEgr/view?usp=drivesdk",
-      adress: 'https://coursera.org/verify/FHUQJTBWD83H'
-    },
-    {
-      url: "https://res.cloudinary.com/dyx1jeydm/image/upload/v1661929679/About/Back-End-1_lh9mcm.png",
-      alternativeText: "Photo Three",
-       download:"https://drive.google.com/file/d/1gSQcZ3eGFwadqqotu5dZwL23TFusR-GE/view?usp=drivesdk",
-       adress:'https://coursera.org/verify/ELER7QPLTMXF'
-    }
+        "images":[
+           {
+            "url": "https://res.cloudinary.com/dyx1jeydm/image/upload/v1661929693/About/Full-Stack-1_e3j2ks.png",
+            "alternativeText": "Photo Three",
+            "download":"https://drive.google.com/file/d/1ghtpcOEu61just9ouIh-KjkCYLj0zpLM/view?usp=drivesdk",
+            "adress":"https://coursera.org/verify/specialization/LE55T8U53PME"
+            },
+           {
+            "url": "https://res.cloudinary.com/dyx1jeydm/image/upload/v1661929692/About/Bootstrap-1_y0adb1.png",
+            "alternativeText": "Photo One",
+            "download":"https://drive.google.com/file/d/1gbiszFysa119CNUQfeuCJOAjuIAKRbDF/view?usp=drivesdk",
+            "adress":"https://coursera.org/verify/SZBR4SFBGV4Q"
+            },
+           { 
+           "url": "https://res.cloudinary.com/dyx1jeydm/image/upload/v1661929697/About/Font-End-react-1_cszqvy.png",
+           "alternativeText": "Photo Two",
+           "download":"https://drive.google.com/file/d/1gcrrkUJfTRpD9AZpLmMAAVSO13AYoEgr/view?usp=drivesdk",
+           "adress": "https://coursera.org/verify/FHUQJTBWD83H"
+            },
+           {
+           "url": "https://res.cloudinary.com/dyx1jeydm/image/upload/v1661929679/About/Back-End-1_lh9mcm.png",
+           "alternativeText": "Photo Three",
+           "download":"https://drive.google.com/file/d/1gSQcZ3eGFwadqqotu5dZwL23TFusR-GE/view?usp=drivesdk",
+           "adress":"https://coursera.org/verify/ELER7QPLTMXF"
+           }
   ]   
        }
   ],
